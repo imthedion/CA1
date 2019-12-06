@@ -1,63 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
   <section name="Starters">
-    <entree vegetarian="true">
-      <item>Potato Salad</item>
-      <price>4.95</price>
-    </entree>
     <entree>
-      <item>Paddy's French Fries</item>
-      <price>7.50</price>
+      <item>Miso Soup</item>
+      <price>2.00</price>
     </entree>
   </section>
   <section name="Main Course">
     <entree>
-      <item>Two Eggs, any style</item>
-      <price>4.99</price>
+      <item>Chicken</item>
+      <price>8.00</price>
     </entree>
     <entree>
-      <item>Paddy's Famous Peppers and Eggs</item>
-      <price>8.29</price>
-    </entree>
-    <entree vegetarian="true">
-      <item>Bowl of fruit</item>
-      <price>6.99</price>
-    </entree>
-    <entree vegetarian="true">
-      <item>French toast</item>
-      <price>5.25</price>
+      <item>Sirloin Steak</item>
+      <price>12.00</price>
     </entree>
     <entree>
-      <item>Croissant</item>
-      <price>3.99</price>
+      <item>Fillet Steak</item>
+      <price>11.25</price>
+    </entree>
+    <entree>
+      <item>Salmon</item>
+      <price>8.00</price>
     </entree>
   </section>
   <section name="Drinks">
     <entree>
-      <item>Grilled Chicken Sandwich</item>
-      <price>7.99</price>
+      <item>Fizzy Drinks (Coke, Diet Coke, 7up, Fanta)</item>
+      <price>2.50</price>
     </entree>
     <entree>
-      <item>Tuna Melt</item>
-      <price>6.99</price>
+      <item>Draft Beer (Kirin)</item>
+      <price>4.50</price>
     </entree>
-    <entree vegetarian="true">
-      <item>Pasta Salad</item>
+    <entree>
+      <item>Wine (White Wine, Red Wine)</item>
       <price>7.39</price>
     </entree>
   </section>
   <section name="Dessert">
     <entree>
-      <item>Ribeye Steak</item>
-      <price>19.99</price>
+      <item>Sticky Toffee Pudding</item>
+      <price/>
     </entree>
     <entree>
-      <item>Chilean Sea Bass</item>
-      <price>12.99</price>
+      <item>Ice cream selection</item>
+      <price>3.00</price>
     </entree>
-    <entree vegetarian="true">
-      <item>Linguini with Grilled Porcini Mushroom</item>
-      <price>9.79</price>
+    <entree>
+      <item>Funky Pie</item>
+      <price>3.50</price>
     </entree>
   </section>
+  <entree>
+    <item>salad</item>
+    <price>2.00</price>
+  </entree>
 </cafemenu>
