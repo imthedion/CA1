@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
+<<<<<<< HEAD
   <section name="Starters">
+=======
+  <section name="Side Dishes">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree vegetarian="true">
       <item>Potato Salad</item>
       <price>4.95</price>
@@ -10,7 +14,11 @@
       <price>7.50</price>
     </entree>
   </section>
+<<<<<<< HEAD
   <section name="Main Course">
+=======
+  <section name="Breakfast">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree>
       <item>Two Eggs, any style</item>
       <price>4.99</price>
@@ -32,7 +40,11 @@
       <price>3.99</price>
     </entree>
   </section>
+<<<<<<< HEAD
   <section name="Drinks">
+=======
+  <section name="Lunch">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree>
       <item>Grilled Chicken Sandwich</item>
       <price>7.99</price>
@@ -46,7 +58,11 @@
       <price>7.39</price>
     </entree>
   </section>
+<<<<<<< HEAD
   <section name="Dessert">
+=======
+  <section name="Dinner">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree>
       <item>Ribeye Steak</item>
       <price>19.99</price>
