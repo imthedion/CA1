@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
+<<<<<<< HEAD
   <section name="Starters">
+<<<<<<< HEAD
+=======
+=======
+  <section name="Side Dishes">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
+    <entree vegetarian="true">
+      <item>Potato Salad</item>
+      <price>4.95</price>
+    </entree>
+>>>>>>> ac28a69e9ca6edc4a67e2d5818f7ac97b8c3a303
     <entree>
       <item>Miso Soup</item>
       <price>2.00</price>
     </entree>
   </section>
+<<<<<<< HEAD
   <section name="Main Course">
+=======
+  <section name="Breakfast">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree>
       <item>Chicken</item>
       <price>8.00</price>
@@ -24,7 +39,11 @@
       <price>8.00</price>
     </entree>
   </section>
+<<<<<<< HEAD
   <section name="Drinks">
+=======
+  <section name="Lunch">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree>
       <item>Fizzy Drinks (Coke, Diet Coke, 7up, Fanta)</item>
       <price>2.50</price>
@@ -38,7 +57,11 @@
       <price>7.39</price>
     </entree>
   </section>
+<<<<<<< HEAD
   <section name="Dessert">
+=======
+  <section name="Dinner">
+>>>>>>> 0fc302498f1432769deb2a7abd72fb8fa2b5f0bd
     <entree>
       <item>Sticky Toffee Pudding</item>
       <price/>
